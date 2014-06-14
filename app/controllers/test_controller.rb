@@ -1,5 +1,5 @@
 class TestController < ApplicationController
   def test
-    @test ="test"
+    @test =" cambio coleto "
   end
 end
