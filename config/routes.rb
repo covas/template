@@ -1,6 +1,7 @@
 Template2::Application.routes.draw do
   get 'test' => 'test#test'
   get 'nuevo' => 'nuevo#nuevo'
+  get 'otro' => 'otro#otro'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
